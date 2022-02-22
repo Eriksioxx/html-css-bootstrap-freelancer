@@ -45,3 +45,7 @@ header h4 {
 .bg_grey {
     background-color: #ccb2a3;
 }
+
+.section_2 img {
+    width: 90%;
+}
