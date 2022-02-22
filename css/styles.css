@@ -46,6 +46,24 @@ header h4 {
     background-color: #ccb2a3;
 }
 
+.bg_green {
+    background-color: #1abc9c;
+}
+
+
 .section_2 img {
-    width: 90%;
+    width: 100%;
+}
+.section_2 h3 {
+    margin-bottom: 0;
+}
+
+.section_3 {
+    color: white;
+}
+
+.section_3 button {
+    border-radius: 10px;
+    color: white;
+    
 }
