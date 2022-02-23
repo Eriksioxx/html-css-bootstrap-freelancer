@@ -2,7 +2,8 @@ body {
     font-family : sans-serif;
 }
 
-header {
+header,
+footer {
     background-color : #2c3e50;
     color: white;
 }
@@ -50,7 +51,6 @@ header h4 {
     background-color: #1abc9c;
 }
 
-
 .section_2 img {
     width: 100%;
 }
@@ -62,8 +62,12 @@ header h4 {
     color: white;
 }
 
-.section_3 button {
+.section_3 button,
+.section_4 button {
     border-radius: 10px;
     color: white;
-    
+}
+
+footer p span {
+    color: #1abc9c;
 }
