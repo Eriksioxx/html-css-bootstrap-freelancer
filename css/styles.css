@@ -73,5 +73,9 @@ footer p span {
 }
 
 .ac-white {
-    color: white;
+    color: white !important;
+}
+
+.ac-nav-white {
+    filter: invert(100%);
 }
